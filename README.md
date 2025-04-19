@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Bienvenu!  
 
-Welcome to my digital space—where innovation meets creativity and technology transforms ideas into reality. As a passionate developer and tech enthusiast based in Rwanda, I'm on a mission to build, collaborate, and contribute to the future of software engineering.  
+Welcome to my digital space where innovation meets creativity and technology transforms ideas into reality. As a passionate developer and tech enthusiast based in Rwanda, I'm on a mission to build, collaborate, and contribute to the future of software engineering.  
 
 ## 🔥 Vision & Purpose  
 
